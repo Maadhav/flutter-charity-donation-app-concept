@@ -8,7 +8,7 @@ Made by Maadhav Sharma
 ## ScreenShots
 
 
-![ScreenShot](https://raw.githubusercontent.com/Maadhav/flutter-login-ui-concept/master/ScreenShots/preview.jpg)
+![ScreenShot](https://github.com/Maadhav/flutter-charity-donation-app-concept/blob/master/assets/thumbnail.png?raw=true)
 
 - [Design Source Credit:]()
 ## 
